@@ -1,7 +1,7 @@
 <html>
 <head>
 	<style type="text/css">
-		h2{color:red;}
+		h2{ color:red; }
 	</style>
 </head>
 <body>
@@ -14,7 +14,7 @@
 	<div>
 		<h3>First Div tag</h3>
 	</div>
-	<div>
+	<div>		
 		<h3 style="background-color: pink">Weapplicaton content</h3>
 	</div>
 </div>
