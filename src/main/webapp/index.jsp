@@ -7,12 +7,15 @@
 <body>
 <h2>Hello, Welcome to jenkins CI/CD!</h2>
 <h4 style="color:green">Hi jenkins user</h4>
-<div style="color:green; background-color:blue">
+<div style="color:yellow; background-color:blue">
 	<div>
-		<h3>ddffdfdsf</h3>
+		<h3>Main div tag</h3>
 	</div>
 	<div>
-		<h3>dsfdfdsfdf</h3>
+		<h3>First Div tag</h3>
+	</div>
+	<div>
+		<h3>Second Div tag</h3>
 	</div>
 </div>
 </body>
