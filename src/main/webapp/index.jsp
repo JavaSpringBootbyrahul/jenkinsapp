@@ -9,7 +9,7 @@
 <h4 style="color:green">Hi jenkins user</h4>
 <div style="color:yellow; background-color:blue">
 	<div>
-		<h3>Main div tag</h3>
+		<h3 style="color:green">Main div tag</h3>
 	</div>
 	<div>
 		<h3>First Div tag</h3>
