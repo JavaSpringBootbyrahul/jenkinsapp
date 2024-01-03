@@ -6,6 +6,5 @@
 </head>
 <body>
 <h2>Hello, Welcome to jenkins CI/CD!</h2>
-<h4 style="color:green">Hi jenkins user</h4>
 </body>
 </html>
