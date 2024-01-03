@@ -15,7 +15,7 @@
 		<h3>First Div tag</h3>
 	</div>
 	<div>
-		<h3 style="background-color: pink">Second Div tag</h3>
+		<h3 style="background-color: pink">Weapplicaton content</h3>
 	</div>
 </div>
 </body>
